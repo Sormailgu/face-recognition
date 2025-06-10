@@ -30,11 +30,12 @@ face-recognition/
 - opencv-python
 - scipy
 - flask-cors
+- tf-keras
 
 Install dependencies with:
 
 ```bash
-pip install flask deepface numpy opencv-python scipy flask-cors
+pip install flask deepface numpy opencv-python scipy flask-cors tf-keras
 ```
 
 ## Usage

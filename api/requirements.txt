@@ -1,5 +1,6 @@
 deepface==0.0.93
 Flask==3.1.1
 flask_cors==6.0.0
-numpy==2.2.6
+numpy==2.3.0
 scipy==1.15.3
+tf_keras==2.19.0
